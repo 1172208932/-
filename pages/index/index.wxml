@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<image  class='background' src='backgroung.png'></image>
+<image animation="{{animationData}}" bindtap='a' class='buttonimg' src='button.png' ></image>
+<image animation="{{animation}}" bindtap='bb' class='{{moveimg == true ? "WechatIMG3" :"noshow"}}' src='WechatIMG3.png'></image>
+<image wx:if="{{topimg}}" bindtap='cc' class='WechatIMG3' src='WechatIMG4.png'></image>
+<!-- <view animation="{{animationData}}" style="background:red;height:100rpx;width:100rpx"></view> -->

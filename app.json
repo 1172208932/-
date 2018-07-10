@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/answer/answer",
+    "pages/result_1/result_1",    
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f8c8e0",
+    "navigationBarTitleText": "少女心指数测试",
+    "navigationBarTextStyle": "wite"
+  }
+}

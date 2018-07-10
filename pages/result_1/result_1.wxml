@@ -1,0 +1,8 @@
+<!--pages/result_1/result_1.wxml-->
+<image  class='background' src='{{backimg[backindex]}}'></image>
+
+<view class='toptitle'>你发</view>
+
+<view class='buttonLeft'>截图分享</view>
+<view class='buttonRight'>再测一次</view>
+ 

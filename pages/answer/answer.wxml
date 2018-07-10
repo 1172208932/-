@@ -1,0 +1,7 @@
+<!--pages/answer/answer.wxml-->
+<image  class='background' src='WechatIMG2.png'></image>
+<view class='girlbox'>
+<image src='WechatIMG4.png'></image>
+<view class='title'>{{answerData}}</view>
+<view bindtap='answerClick' data-click='{{index}}' wx:for="{{listData}}" class='answer'>{{item}}</view>
+</view>

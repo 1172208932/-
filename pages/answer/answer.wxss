@@ -1,0 +1,44 @@
+/* pages/answer/answer.wxss */
+@import "../index/index.wxss";
+
+.girlbox {
+  position: absolute;
+  top: 40rpx;
+  background: rgba(253, 123, 154, 0.9);
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  margin-bottom: 40rpx;
+  width: 92%;
+  border-radius: 20rpx;
+  text-align: center;
+  padding-bottom: 100rpx;
+}
+
+.girlbox image {
+  margin-top: 10rpx;
+  width: 252rpx;
+  height: 150rpx;
+}
+
+.title {
+  width: 90%;
+  color: white;
+  margin-top: 110rpx;
+  font-size: 34rpx;
+  font-weight: bold;
+  margin-bottom: 110rpx;
+  margin-left: 5%;
+}
+
+.answer {
+  margin-bottom: 35rpx;
+  color: #4c4c4c;
+  font-size: 36rpx;
+  display: inline-block;
+  line-height: 100rpx;
+  border-radius: 100rpx;
+  width: 536rpx;
+  height: 100rpx;
+  background-color: white;
+  box-shadow: 2px 2px 1px #000;
+}

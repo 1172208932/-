@@ -1,0 +1,37 @@
+/* pages/result_1/result_1.wxss */
+@import "../index/index.wxss";
+
+.toptitle{
+  width: 100%;
+  position: absolute;
+  top: 7%;
+  color: black;
+  font-size: 50rpx;
+  text-align: center;
+}
+.buttonLeft{
+  color: white;
+  font-size: 34rpx;
+  top: 79%;
+  left: 30rpx;
+  position: absolute;
+  width: 200rpx;
+  height: 70rpx;
+  background-color: #fb70bb;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 70rpx;
+}
+.buttonRight{
+  color: white;
+  font-size: 34rpx;
+  top: 79%;
+  right: 30rpx;
+  position: absolute;
+  width: 200rpx;
+  height: 70rpx;
+  background-color: #fb70bb;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 70rpx;
+}
